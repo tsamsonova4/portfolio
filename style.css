@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 179, 232);
+}
+
+ul{
+    border-radius: 20px;
+    border: 10px double rgb(233, 132, 132);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-image: linear-gradient(slateblue, lightblue);
+
+}
+h1{
+    text-align: center;
+    color: lightsalmon;
+    background-image: linear-gradient(to right, rgb(255, 177, 177), blue);
+}
+
+header a{
+    text-decoration: none;
+    border-radius: 20px;
+    border: 5px dashed lightsalmon;
+    padding: 5px;
+    background-color: lightseagreen;
+
+}
+header{
+    margin: 30px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    border-radius: 20px;
+    border: 5px dashed lightsalmon;
+    padding: 5px;
+    background-color: lightseagreen;
+}
